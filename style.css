@@ -1,0 +1,98 @@
+body{
+
+	font-family: "Arial black", Arial, Verdana, sans-serif;
+	background: black;
+	border: 1px solid blue;
+}
+.zozor{
+	height: 50px;
+}
+.link_nav
+{ color: orangered; }
+
+div{
+    display: flex;
+    justify-content: space-between;
+    font-family: Gill Sans;
+    font-size: larger;
+    box-shadow: 6px 6px 6px black inset;
+    padding: 30px;
+    background: white;
+    border: 1px solid blue;
+}
+
+ol{
+   display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+    font-family: monospace;
+    font-size: large;
+    box-shadow: 6px 6px 6px black;
+  }
+
+section{
+	border: 1px solid blue;
+	display: flex;
+    padding: 10px;
+}
+
+article {
+	
+	
+    width: 70%;
+    padding: 20px;
+    color: white;
+}
+h1{ 
+   color: #31968e;
+   letter-spacing: 3px;
+}
+h2{
+	text-shadow: 4px 3px 0px #000, 9px 8px 0px rgba(0,0,0,0.15);
+	color: #31968e;
+    letter-spacing: 2px;
+   }
+
+.ntx
+{
+  width: 100%;
+  height: auto;
+}
+aside{
+     width: 30%;
+     border: 1px solid blue;
+    }
+a
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+table
+{ 
+    border-collapse: collapse; 
+    width: 100%;
+    height: 40%;
+}
+caption
+{
+    color: #31968e;
+}
+
+td, th
+{
+    border: 1px solid white;
+    color: #31911e;
+    padding: 30px;
+
+}
+
+
+p{
+	color: whitesmoke;
+    font-size:medium ;
+    font-size: 1.1em;
+    font-family: sans-serif;
+    
+}
